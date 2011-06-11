@@ -1,0 +1,8 @@
+#Wed Apr 27 19:53:12 BST 2011
+eclipse.preferences.version=1
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorld.java=UTF-8
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorldService.java=UTF-8
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorldServiceLocator.java=UTF-8
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorldSoapBindingImpl.java=UTF-8
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorldSoapBindingSkeleton.java=UTF-8
+encoding//src/com/moodykettle/webservice/helloworld/HelloWorldSoapBindingStub.java=UTF-8
