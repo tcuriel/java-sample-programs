@@ -45,6 +45,7 @@ public class TestContainer {
 	}
 
 	/**
+	 * This is main class
 	 * @param args
 	 */
 	public static void main(String[] args) {
