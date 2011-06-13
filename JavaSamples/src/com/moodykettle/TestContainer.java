@@ -18,7 +18,7 @@ public class TestContainer {
 	public static void test001()
 	{
 		FractionProblem.fractionProblem();
-		System.out.println("------------------------");
+		System.out.println("-------------------------");
 	}
 
 	public static void test002()
